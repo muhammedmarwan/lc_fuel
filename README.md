@@ -6,8 +6,8 @@ A fuel system that adds realism and depth to vehicle management. Whether your pl
 - Edited By Marwan.
 
 ## dependency
-lc_utils
-ox_target
+- lc_utils
+- ox_target
 
 ## Installation
 Install steps available on our docs: [Installation - LC Fuel](https://docs.lixeirocharmoso.com/lc_fuel/installation)
