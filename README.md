@@ -6,6 +6,10 @@ Integrated with ox_target
 
 Edited By Marwan.
 
+## dependency
+lc_utils
+ox_target
+
 ## Installation
 Install steps available on our docs: [Installation - LC Fuel](https://docs.lixeirocharmoso.com/lc_fuel/installation)
 
