@@ -2,6 +2,8 @@
 
 ## About
 A fuel system that adds realism and depth to vehicle management. Whether your players drive gas-powered cars, diesel, or electric vehicles, this script ensures an immersive refueling experience.
+Integrated with ox_target
+
 Edited By Marwan.
 
 ## Installation
