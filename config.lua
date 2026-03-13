@@ -410,7 +410,7 @@ Config.Blips = {
     onlyShowNearestBlip = true,-- This will only show the nearest gas station to the user
     blipId = 361,				-- Blip ID https://docs.fivem.net/docs/game-references/blips/
     color = 41,					-- Blip Color
-    scale = 0.6,				-- Blip Scale
+    scale = 0.5,				-- Blip Scale
     locations = {				-- Locations that the blips will appear in the map
         vector3(49.4187, 2778.793, 58.043),
         vector3(263.894, 2606.463, 44.983),
@@ -441,6 +441,7 @@ Config.Blips = {
         vector3(-319.292, -1471.715, 30.549),
         vector3(1784.324, 3330.55, 41.253),
         vector3(209.29, -1378.53, 29.56),
+        vector3(356.1246, 5371.3418, 670.8790),
     }
 }
 
@@ -477,6 +478,7 @@ Config.Electric = {
         { prop = "prop_electric_01", location = vector4(209.29, -1378.53, 29.56, 325.77), ropeLength = 7.5 },
         { prop = "prop_electric_01", location = vector4(292.1455, -353.2903, 44.0, 341.6391), ropeLength = 7.5 },
         { prop = "prop_electric_01", location = vector4(261.1711, -779.0508, 29.5, 68.2302), ropeLength = 7.5 },
+        { prop = "prop_electric_01", location = vector4(475.0408, 5390.0112, 670.53, 89.8571), ropeLength = 7.5 }, --mount chiliad with dnx_chiliad
     },
     chargersProps = {					-- List of the props and their offsets to fuel rope
         { prop = "prop_electric_01", ropeOffset = { forward = 0.0, right = 0.25, up = 0.3 } },
